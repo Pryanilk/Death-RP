@@ -1,0 +1,7 @@
+16.05.2026
+
++Added steel, bronze, gold, mithril armor for Minetest Game
+*Fixed bug with armor
+ (Fixed bug like trims looks on armor broken)
+
+Other: This textures i make maybe in March or April, but upload that in May lol. I think about make other textures for Minetest Game and after go to Mineclonia.
