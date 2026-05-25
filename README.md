@@ -9,6 +9,6 @@ This texture Pack have v2 textures. If you want change textures?  Change main te
 
 ===============
 
-GUIDE HOW TO MAKE TRANSPARENT LEAVES
+# GUIDE HOW TO MAKE TRANSPARENT LEAVES
 
 Change your Leaves style on simple or fancy and all :D
