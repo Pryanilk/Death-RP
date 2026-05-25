@@ -1,5 +1,5 @@
-# Death-RP
-PvP Texture Pack for Minetest game, Mineclonia, MineClone2
+# Death-RP & Credits
+PvP Texture Pack for Minetest game, Mineclonia, MineClone2 | Textures for CTF used from - https://gitlab.com/OrangeBlob/ctf_hctc
 
 PvP Texture Pack for FFA, CTF, Other PvP servers and none PvP servers
 
