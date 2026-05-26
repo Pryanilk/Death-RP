@@ -12,3 +12,11 @@ Other: This textures i make maybe in March or April, but upload that in May lol.
 
 *Fixed bug like tetxures loaded from folder " for change textures " and i should delete this folder for fix that
 +Added textures for GroundWars PvP server - for ankh(totem), golden and diamonds apples
+
+==================
+
+26.05.2026
+
+*Updated file README.md
+
+Other: Sonn i'll upload biggest update for GW servers >:)
